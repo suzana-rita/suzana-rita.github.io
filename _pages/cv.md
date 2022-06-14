@@ -28,7 +28,7 @@ Work experience
 
 Research Fundings
 ======
-*	"Slow Feature Subspace for Change Detection on Behavioral Data". Young Researcher Training Program ([システム情報工学研究科若手研究者育成プログラム](https://www.sie.tsukuba.ac.jp/edu/re_program)). University of Tsukuba, Japan.
+*	"Slow Feature Subspace for Change Detection on Behavioral Data". Young Researcher Training Program ([システム情報工学研究科若手研究者育成プログラム](https://www.sie.tsukuba.ac.jp/edu/re_program)). 2021.9.1-2022.3.31. University of Tsukuba, Japan.
 
 Awards and Honors
 ======
