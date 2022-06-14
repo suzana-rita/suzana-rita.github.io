@@ -15,4 +15,4 @@ In 2018, I was selected to study in Japan by the MEXT scholarship. I was a resea
 
 My research interests include human action recognition, understanding sign languages, and change detection. Given my background, I am also interested in data mining, information retrieval, recommendation systems, and search engines.
 
-Thank you for taking the time to read up about me, and please do not hesitate to contact me if you need any information.
+Thank you for taking the time to read about me, and please do not hesitate to contact me if you need any information.
