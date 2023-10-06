@@ -26,6 +26,12 @@ Work experience
 *	2015: Software developer during the exchange in Germany in the University of Stuttgart.
 *	2012-2014: Software development internship at NEEMU.
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Research Fundings
 ======
 *	"Slow Feature Subspace for Change Detection on Behavioral Data". Young Researcher Training Program ([システム情報工学研究科若手研究者育成プログラム](https://www.sie.tsukuba.ac.jp/edu/re_program)). 2021.9.1-2022.3.31. University of Tsukuba, Japan.
@@ -53,9 +59,3 @@ Skills
 *	Back-office: Docker.
 *	Development boards: Arduino, Raspberry Pi.
 *	Others: Pytorch, Anaconda.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
