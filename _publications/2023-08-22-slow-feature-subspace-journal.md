@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2023-08-22-slow-feature-subspace-journal
 excerpt: 'In this paper, we further discuss and experiment with our slow feature subspace.'
 date: 2023-08-22
-venue: 'International Conference on Pattern Recognition'
+venue: 'Machine Learning with Applications'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2666827023000464'
 citation: 'Beleza, S. R. A., Shimomoto, E. K., Souza, L. S., & Fukui, K. (2023). Slow feature subspace: A video representation based on slow feature analysis for action recognition. <i>Machine Learning with Applications</i>, 14, 100493.'
 ---
